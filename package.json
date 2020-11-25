@@ -1,0 +1,18 @@
+{
+  "name": "masterboat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lvquids",
+  "license": "ISC",
+  "dependencies": {
+    "discord-xp": "^1.0.6",
+    "discord.js": "^12.5.0",
+    "fs": "0.0.1-security",
+    "noblox.js": "^4.7.1",
+    "reaction-role": "^2.1.5"
+  }
+}
